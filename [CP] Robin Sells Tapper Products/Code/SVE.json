@@ -1,0 +1,24 @@
+{
+    "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Shops",
+	  "TargetField": [
+	  "Carpenter",
+	  "Items"
+	  ],
+      "Entries": {
+                    "Joey2324.RobinSellsTapperProducts_SVE_BirchWater": {
+                        "Id": "Joey2324.RobinSellsTapperProducts_SVE_BirchWater",
+                        "ItemId": "FlashShifter.StardewValleyExpandedCP_Birch_Water",
+                        "Price": "100"
+				},
+					"Joey2324.RobinSellsTapperProducts_SVE_FirWax": {
+						"Id": "Joey2324.RobinSellsTapperProducts_SVE_FirWax",
+						"ItemId": "FlashShifter.StardewValleyExpandedCP_Fir_Wax",
+						"Price": "350"
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+    "Format": "2.5.0",
+    "Changes": [
+       {
+           "Action": "Include",
+           "FromFile": "Code/Vanilla.json"
+       },
+       {
+           "Action": "Include",
+           "FromFile": "Code/SVE.json",
+           "When": {"HasMod": "FlashShifter.StardewValleyExpandedCP"}
+       }
+    ]
+}

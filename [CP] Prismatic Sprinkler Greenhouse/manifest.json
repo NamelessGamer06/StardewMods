@@ -1,0 +1,11 @@
+{
+    "Name": "[CP] Prismatic Sprinkler Greenhouse",
+    "Author": "Joey2324",
+    "Version": "1.0.2",
+    "Description": "A greenhouse map made specifically for Prismatic Sprinkler.",
+    "UniqueID": "Joey2324.PrismaticSprinklerGreenhouse",
+    "UpdateKeys": ["Nexus:20312"], 
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
